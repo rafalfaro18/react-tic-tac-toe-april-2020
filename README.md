@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+See the live demo at https://rafalfaro18.github.io/react-tic-tac-toe-april-2020
+
 ## Available Scripts
 
 In the project directory, you can run:
