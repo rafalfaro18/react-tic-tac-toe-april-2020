@@ -3,5 +3,6 @@ import { Square } from '../index';
 
 export default { title: 'Square' };
 
+export const empty = () => <Square/ >;
 export const withX = () => <Square value="X"></Square>;
 export const withO = () => <Square value="O"></Square>;
