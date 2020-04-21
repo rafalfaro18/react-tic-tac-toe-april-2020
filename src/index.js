@@ -10,7 +10,7 @@ export function Square(props) {
   );
 }
 
-class Board extends React.Component {
+export class Board extends React.Component {
   renderSquare(i) {
     return (
       <Square
